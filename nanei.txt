@@ -3,4 +3,8 @@ this is the second line
 This is third line
 this is four line
 change 5
+<<<<<<< HEAD
 change 7
+=======
+change 6
+>>>>>>> master
